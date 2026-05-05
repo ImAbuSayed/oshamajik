@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Oshamajik |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 06, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/oshamajik/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা আঁধারে তুমি প্রথম ভোরের আলো
+> বলো না আমায় কেন এত বাসলে ভালো
+> হারিয়ে গিয়েছি আমি তোমার ওই মায়ায়
+> আমার এই সত্তা মিশেছে তোমার ছায়ায়
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
