@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Oshamajik
+
+This log tracks the cryptographic history and versioning for the song **Oshamajik** (oshamajik).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:26:45.205344 | `v1` | `5518ed25e36045a79791510ade8c2e87b0c75385b2a740e7b5c05a7b0f095139` | `2e6eb04c61a40ebb29c9af46c8bd8ab909daa3612d67ce9d70ad2d96085cbce6` | `2026-05-08_oshamajik-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
